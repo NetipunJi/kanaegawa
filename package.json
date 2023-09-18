@@ -1,0 +1,21 @@
+{
+  "name": "kanaegawa",
+  "displayName": "KaNAEgawa",
+  "description": "My tribute to Kanagawa theme that support various language and italics",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.82.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "KaNAEgawa",
+        "uiTheme": "vs-dark",
+        "path": "./themes/KaNAEgawa-color-theme.json"
+      }
+    ]
+  }
+}
